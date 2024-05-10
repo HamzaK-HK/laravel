@@ -11,7 +11,7 @@
                 {!! $post->body !!}
             </div>
             <a href="/" class=" bg-blue-600 rounded-lg py-1 px-2 font
-            -bold text-white">Go Back</a>
+            -bold text-white">Go Back To</a>
           </div>
         </div>
     {{-- </div> --}}
